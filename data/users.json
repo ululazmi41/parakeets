@@ -1,0 +1,20 @@
+[
+  {
+    "avatarUrl": "snowden.jpg",
+    "name": "Snowden",
+    "handle": "snowden",
+    "verified": true
+  },
+  {
+    "avatarUrl": "cat1.jpg",
+    "name": "Nana",
+    "handle": "nana",
+    "verified": true
+  },
+  {
+    "avatarUrl": "cat2.jpg",
+    "name": "Lexy",
+    "handle": "lexy",
+    "verified": false
+  }
+]
